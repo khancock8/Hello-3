@@ -15,6 +15,9 @@ int main(int argc, char **argv) {
 <<<<<<< HEAD
   printf("Tristan Ragland\n");
   printf("Business Administration\n");
+  
+  printf("Kyle Hancock\n");
+  printf("Electrical Engineering\n");
 =======
 
   printf("Brent Lucke"\n);
