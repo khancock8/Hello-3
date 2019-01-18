@@ -19,6 +19,9 @@ int main(int argc, char **argv) {
 
   printf("Brent Lucke"\n);
   printf("Marketing"\n);
+  
+  printf("Kyle Hancock"\n);
+  printf("Electrical Engineering"\n); 
 
 >>>>>>> a7a536fb464670b3626678973c45f53e382ae538
   return 0;
